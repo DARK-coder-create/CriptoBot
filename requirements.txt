@@ -1,0 +1,6 @@
+flask
+flask_restful
+python-telegram-bot
+requests
+beautifulsoup4
+lxml
